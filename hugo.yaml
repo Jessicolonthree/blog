@@ -21,7 +21,7 @@ permalinks:
   posts: "/posts/:filename/"
 
 params:
-  theme: "dark-blue" # light-blue, dark-blue, light-green, light-yellow, light-pink, light-purple
+  theme: "purple" # green, purple
   favicon: "/favicon.ico"
   posts-per-page: 1 # defaults to 5 if not defined
   toc-auto-numbering: false

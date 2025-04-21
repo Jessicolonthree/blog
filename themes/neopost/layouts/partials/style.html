@@ -1,4 +1,4 @@
-<style>
+    <style>
 {{ $themeName := .Site.Params.theme }}
 {{ $theme := index (where .Site.Data.themes "name" $themeName) 0 }}
 
@@ -444,12 +444,13 @@ header h1 a:hover {
 
 #single-post {
     display: flex;
+    justify-content: center;
     gap: 1rem;
+    margin-right: 12px;
 }
 
 #single-post > article {
-    width: 100%;
-    margin-bottom: 0;
+    max-width: 48.1rem;
 }
 
 #single-post > article > #post-toc-mobile {
@@ -496,6 +497,9 @@ header h1 a:hover {
         margin: .3em 1em;
     }
 
+    #single-post {
+        margin-right: 0px;
+    }
     #single-post > .table-of-contents.sidebar {
         display: none;
     }
