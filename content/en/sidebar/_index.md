@@ -6,6 +6,6 @@ links:
     - link: "https://fmhy.net/"
       name: "free shit >:D"
 
-    - link: "https://NaomiTheAshenOne.moe/"
+    - link: "https://blog.NaomiTheAshenOne.moe/"
       name: "Naomi's Blog!"
 ---

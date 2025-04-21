@@ -1,7 +1,7 @@
 ---
 headless: true
 title: "blog.website boot complete!
-displaying intro.txt..."
+displaying intro.md..."
 intro:
   - "Welcome to my page for useless and neverending rambles about stuff and uhh.. things!"
   
