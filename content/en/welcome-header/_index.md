@@ -11,6 +11,6 @@ list:
   name: "Things I love:"
   items: 
     - "Ga(y)ming"
-    - "My amazing gf Naomi :D"
+    - "My super uber epic gf"
     - "Being absolutely stupid 90% of the time" 
 ---
