@@ -6,9 +6,9 @@ theme: "neopost"
 
 languages:
   en:
-    languageCode: en-us
+    locale: en-us
     contentDir: content/en
-    languageName: english
+    label: english
     weight: 1
     params:
       read-more:
